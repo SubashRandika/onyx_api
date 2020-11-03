@@ -1,3 +1,5 @@
-# Team Onyx
+# Team Onyx Data API
 
-Meet the Qmatic Team Onyx
+REST API endpoint to get Qmatic Team Onyx details.
+
+`https://my-json-server.typicode.com/SubashRandika/onyx_api/team`
